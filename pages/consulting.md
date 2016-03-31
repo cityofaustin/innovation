@@ -2,6 +2,7 @@
 title: Consulting
 permalink: /consulting/
 layout: bare
+description: We help diverse and inclusive teams examine challenges and opportunities to surface better ideas and solutions that make a lasting, positive impact.
 ---
 
 <h1 style="padding-top: 64px; padding-bottom: 18px;"> Consulting &amp; Workshops</h1>

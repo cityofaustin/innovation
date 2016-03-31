@@ -2,6 +2,7 @@
 title: City Manager's Idea Accelerator
 permalink: /idea-accelerator/
 layout: bare
+description: The City Manager's Idea Accelerator helps identify and initiate project ideas from city employees.
 ---
 
 <h1 style= "padding-top: 64px; padding-bottom: 18px;"> City Manager's Idea Accelerator</h1>
