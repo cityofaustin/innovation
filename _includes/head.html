@@ -22,7 +22,7 @@
 <meta name="twitter:creator" content="@18F"> -->
 <meta property="og:site_name" content="{{ site.title | xml_escape }}" />
 <meta property="og:type" content="website" />
-  <meta property="og:image" content="https://18f.gsa.gov/assets/images/austin-seal.png" />
+  <meta property="og:image" content="https://cityofaustin.github.io/innovation/assets/images/austin-seal.png" />
 <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
 <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 
@@ -48,11 +48,11 @@
 <!-- use large summary card for posts with images, normal summary otherwise -->
 {% if page.image %}
   <meta name="twitter:card" content="summary_large_image">
-  <meta property="og:image" content="{{site.baseurl}}/assets/images/austin-seal.png" />
+  <meta property="og:image" content="https://cityofaustin.github.io/innovation/assets/images/austin-seal.png" />
   {% else %}
   <!-- until Twitter's card approver fixes itself, need to use summary_large_image here too because we can't get approved for both -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta property="og:image" content="{{site.baseurl}}/assets/images/austin-seal.png" />
+  <meta property="og:image" content="https://cityofaustin.github.io/innovation/assets/images/austin-seal.png" />
 {% endif %}
 
 
