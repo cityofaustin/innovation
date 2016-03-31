@@ -2,7 +2,7 @@
 ================================================== -->
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="google-site-verification" content="vmVo2wbQpKGMHVpllQP7bQ0w5gICWD356VH9DNbv5f4" />
+
 
 
 <!-- Mobile Specific Metas
@@ -45,15 +45,6 @@
   <meta property="og:description" content="{{ site.description | xml_escape }}" />
 {% endif %}
 
-<!-- use large summary card for posts with images, normal summary otherwise -->
-{% if page.image %}
-  <meta name="twitter:card" content="summary_large_image">
-  <meta property="og:image" content="https://cityofaustin.github.io/innovation/assets/images/austin-seal.png" />
-  {% else %}
-  <!-- until Twitter's card approver fixes itself, need to use summary_large_image here too because we can't get approved for both -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta property="og:image" content="https://cityofaustin.github.io/innovation/assets/images/austin-seal.png" />
-{% endif %}
 
 
 <!-- Favicons
