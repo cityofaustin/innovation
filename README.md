@@ -1,6 +1,6 @@
 ## 18F's Homepage
 
-This repository contains the Innovation Office's website, 
+This repository contains the Innovation Office's website, https://cityofaustin.github.io/innovation
 
 **Writing a blog post for 18F? You must read our [blog publishing guide](_posts/README.md).**
 
