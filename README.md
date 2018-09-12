@@ -1,4 +1,4 @@
-## 18F's Homepage
+## City of Austin Innovation Office's homepage
 
 This repository contains the Innovation Office's website, https://cityofaustin.github.io/innovation
 
