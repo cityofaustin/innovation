@@ -7,8 +7,12 @@ description: We are focusing our smart city vision on solving real problems for 
 
 <h1 style= "padding-top: 64px; padding-bottom: 18px;"> Smart City Initiative</h1>
 
-DESCRIPTION
+Description
+
+## Heading
+
+More text
 
 ---
 
-Learn more at [austininnovation.ideascale.com](http://austininnovation.ideascale.com)
+Learn more at LINK
