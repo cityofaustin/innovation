@@ -16,3 +16,7 @@ More text
 ---
 
 Learn more at LINK
+
+# Our team
+
+Names, photos, bios
