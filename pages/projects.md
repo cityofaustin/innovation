@@ -13,22 +13,20 @@ Overview of our projects
 
 Description
 
----
-
 Learn more at LINK
+
+---
 
 ## Project name
 
 Description
 
----
-
 Learn more at LINK
+
+---
 
 ## Project name
 
 Description
-
----
 
 Learn more at LINK
