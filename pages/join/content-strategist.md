@@ -13,7 +13,7 @@ This position will be the content strategy lead for the i-Team. This person will
 
 This position is grant funded.
 
-**Applications close October 28, 2018**
+**Applications close October 29, 2018**
 
 ## Salary		
 
