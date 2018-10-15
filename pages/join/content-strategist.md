@@ -7,9 +7,9 @@ description: Opening for a content strategist for Austin's innovation team.
 ---
 ## Overview
 
-This position will join the City of Austin Bloomberg Philanthropies-funded Innovation Team (i-Team). The i-Team is the City of Austin’s incubator for solving complex social problems. Our first year focused on researching and designing solutions for homelessness. [See info here](https://www.bloomberg.org/program/government-innovation/innovation-teams/).
+This position will be the content strategy lead for the City of Austin's Bloomberg Philanthropies-funded Innovation Team (i-Team). The i-Team is the City of Austin’s incubator for solving complex social problems. Our first year focused on researching and designing solutions for homelessness. [See info here](https://www.bloomberg.org/program/government-innovation/innovation-teams/).
 
-This position will be the content strategy lead for the i-Team. This person will provide content concepts in a variety of media formats; work with the office’s service designer to prototype content solutions for City of Austin services; and identify/model content to enhance accessibility of City of Austin services and programs, to create better in-person transactions and better outcomes for residents.
+As the i-Team's content strategy lead, this person will provide content concepts in a variety of media formats; work with the office’s service designer to prototype content solutions for City of Austin services; and identify/model content to enhance accessibility of City of Austin services and programs, to create better in-person transactions and better outcomes for residents.
 
 This position is grant funded.
 
@@ -42,8 +42,8 @@ Commensurate with experience
 Please submit the following with your application:
 1. Résumé 
 2. Cover Letter
-3. A work sample that demonstrates your skills in content strategy.
+3. A work sample that demonstrates your skills in content strategy
 
 Please be sure to detail on the application all previous employment that you wish to be considered as part of your qualifications. Be sure to include your specific work experience that relates to the minimum and preferred qualifications for the position on your application. Please do not use phrases like “see resume” within your online application. The information provided in your resume must match the information in the job application. Your resume will not substitute for a complete employment application. 
 
-[Apply on the City of Austin's jobs site](LINK)
+**[Apply here](https://www.austincityjobs.org/postings/70767)**
