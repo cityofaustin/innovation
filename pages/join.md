@@ -9,4 +9,4 @@ description: Join our team.
 
 ## Open positions:
 
-- [Content strategist](/join/content-strategist/): We are currently looking for a content strategy lead for the i-Team -- Austin's incubator for solving complex social problems. Applications due October 29, 2018.
+- [Content strategist](/content-strategist/): We are currently looking for a content strategy lead for the i-Team -- Austin's incubator for solving complex social problems. Applications due October 29, 2018.
