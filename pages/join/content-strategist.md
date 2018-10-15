@@ -1,6 +1,6 @@
 ---
 title: Content Strategist opening
-permalink: /innovation/join/content-strategist/
+permalink: /content-strategist/
 layout: bare
 description: Opening for a content strategist for Austin's innovation team. 
 
