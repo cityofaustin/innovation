@@ -2,7 +2,7 @@
 title: Content Strategist opening
 permalink: /content-strategist/
 layout: bare
-description: Opening for a content strategist for Austin's innovation team. 
+description: We're hiring for a content strategy lead for our i-Team – Austin’s incubator for solving complex social problems.
 
 ---
 # Content Strategist
