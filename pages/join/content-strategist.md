@@ -5,6 +5,8 @@ layout: bare
 description: Opening for a content strategist for Austin's innovation team. 
 
 ---
+# Content Strategist
+
 ## Overview
 
 This position will be the content strategy lead for the City of Austin's Bloomberg Philanthropies-funded Innovation Team (i-Team). The i-Team is the City of Austin’s incubator for solving complex social problems. Our first year focused on researching and designing solutions for homelessness. [See info here](https://www.bloomberg.org/program/government-innovation/innovation-teams/).
