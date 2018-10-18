@@ -5,7 +5,7 @@ layout: bare
 description: We're hiring for a content strategy lead for our i-Team – Austin’s incubator for solving complex social problems.
 
 ---
-# Content Strategist
+<h1 style= "padding-top: 64px; padding-bottom: 18px;">  Content Strategist</h1>
 
 ## Overview
 
