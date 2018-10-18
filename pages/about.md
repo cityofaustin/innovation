@@ -1,7 +1,7 @@
 ---
 title: About
 permalink: /about/
-layout: bare
+layout: page
 description: We're the City of Austin's incubator solving complex civic problems. 
 ---
 
