@@ -5,7 +5,7 @@ layout: bare
 description: Join our team. 
 ---
 
-# Join us
+<h1 style= "padding-top: 64px; padding-bottom: 18px;"> Join us</h1>
 
 We are looking for people passionate about finding new solutions to the thorny problems facing Austin. 
 
