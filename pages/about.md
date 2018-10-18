@@ -5,7 +5,7 @@ layout: page
 description: We're the City of Austin's incubator solving complex civic problems. 
 ---
 
-# About the Innovation Office
+<h1 style= "padding-top: 64px; padding-bottom: 18px;">  About the Innovation Office</h1>
 
 **We help the City of Austin develop the problem-solving capabilities it needs to adapt rapidly and meet the needs of the future.**
 
