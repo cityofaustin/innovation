@@ -27,9 +27,9 @@ We are working with the Austin Mayor’s Office and Dell Medical School to impro
 
 ## Smart City Initiative
 
-The Innovation Office, in partnership with Communications & Technology Management, lead the City’s adoption of the [Smart City Strategic Roadmap](bit.ly/ATX-smart-roadmap). Our vision outlines how we as a community might use emerging technology to solve real problems for people in Austin. In this role, the Innovation Office coordinates across departments, provides tools and resources, and helps build relationships with universities, community groups, businesses, and the technology sector. We also advise other departments on transparency and civic engagement as part of the City of Austin’s participation in the international Open Government Partnership. 
+The Innovation Office, in partnership with Communications & Technology Management, lead the City’s adoption of the [Smart City Strategic Roadmap](http://projects.austintexas.io/projects/smart-city/about/overview/). Our vision outlines how we as a community might use emerging technology to solve real problems for people in Austin. In this role, the Innovation Office coordinates across departments, provides tools and resources, and helps build relationships with universities, community groups, businesses, and the technology sector. We also advise other departments on transparency and civic engagement as part of the City of Austin’s participation in the international Open Government Partnership. 
 
-[Learn more about our Smart City Initiative.](bit.ly/ATX-smart-roadmap)
+[Learn more about our Smart City Initiative.](http://projects.austintexas.io/projects/smart-city/about/overview/)
 
 ---
 
