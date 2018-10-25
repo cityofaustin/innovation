@@ -13,4 +13,8 @@ If you have any questions, contact [innovation@austintexas.gov](mailto:innovatio
 
 ## Open positions:
 
-- [Content strategist](http://cityofaustin.github.io/innovation/content-strategist/): We are currently looking for a content strategy lead for our i-Team -- Austin's incubator for solving complex social problems. Applications due October 29, 2018.
+We're hiring for the following positions for our i-Team -- Austin's incubator for solving complex social problems:
+
+- [Project lead](/innovation/project-lead/) (applications close November 19, 2018)
+- [Design researcher](/innovation/design-researcher/) (applications close November 19, 2018)
+- [Data analyst](/innovation/data-analyst/) (applications close November 19, 2018)
