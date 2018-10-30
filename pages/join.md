@@ -11,7 +11,7 @@ We are looking for people passionate about finding new solutions to the thorny p
 
 If you have any questions, contact [innovation@austintexas.gov](mailto:innovation@austintexas.gov).
 
-## Open positions:
+## Open positions
 
 We're hiring for the following positions for our i-Team -- Austin's incubator for solving complex social problems. Applications close for each position November 19, 2018. 
 
