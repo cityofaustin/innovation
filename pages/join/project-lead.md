@@ -16,7 +16,7 @@ As the i-Team project lead, you will work with a team of designers, researchers,
 
 The iTeam project lead will manage the lifecycle of the iTeam’s work and deliverables, and is responsible for managing client expectations and ensuring delivery. Working with the senior service designer to set creative direction, you will provide the necessary organization and environment the iTeam needs to succeed, and build and maintain productive relationships with myriad stakeholders of displacement and/or homelessness issues. 
 
-This position is grant funded.
+This position is currently grant funded through calendar year 2019.
 
 **Applications close November 19, 2018**
 
@@ -34,20 +34,20 @@ Commensurate with experience
 - Ability to translate data and results into program and policy recommendations
 - Ability to zoom in and out on a project, to shift from focusing on small details to the larger system and the relationships between them
 - Demonstrated ability to work with and support cross-functional project teams
--Comfort with ambiguity and ability to provide leadership on projects that might not have a predefined solution and/or scope; resourceful and adaptable to changing circumstances and environments
+- Comfort with ambiguity and ability to provide leadership on projects that might not have a predefined solution and/or scope; resourceful and adaptable to changing circumstances and environments
 - A passion for public service and a commitment to doing the work that’s necessary to improve our city services; willingness to work on emotionally demanding topics
 
 ## Minimum qualifications		
 
-- 
 - Graduation from an accredited four-year college or university with major course work in a related field
+- Five (5) years of experience related to the job. Graduate-level education may substitute for up to two (2) years of this experience.
 
 ## Application requirements
 
 Please submit the following with your application:
 1. Résumé 
 2. Cover Letter
-3. A work sample that _______ 
+3. A work sample or visualization that supports your application 
 
 Please be sure to detail on the application all previous employment that you wish to be considered as part of your qualifications. Be sure to include your specific work experience that relates to the minimum and preferred qualifications for the position on your application. Please do not use phrases like “see resume” within your online application. The information provided in your resume must match the information in the job application. Your resume will not substitute for a complete employment application. 
 
