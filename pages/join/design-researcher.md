@@ -13,7 +13,7 @@ This position will serve as the design research lead for the City of Austin’s 
 
 As the i-Team’s design researcher, you will work with a team of designers, analysts, and city staff to reimagine how the City provides service-oriented solutions for residents at risk of displacement and/or experiencing homelessness. You will be responsible for creating and delivering research plans to understand stakeholder needs through quantitative and qualitative user research, contextual inquiry, rapid prototyping, and evaluative testing. 
 
-This position is grant funded.
+This position is currently grant funded through calendar year 2019.
 
 **Applications close November 19, 2018**
 
@@ -32,11 +32,12 @@ Commensurate with experience
 - A bias towards doing and making things real
 - Comfort with ambiguity and working on projects that might not have a predefined solution and/or scope
 - A passion for public service and a commitment to doing the hard work that is necessary to improve our city services, especially the willingness to work on emotionally demanding topics.
+- Bilingual (English and Spanish)
 
 ## Minimum qualifications		
 
-- 
 - Graduation from an accredited four-year college or university with major course work in a related field
+- Three (3) years experience related to the job.
 
 ## Application requirements
 
