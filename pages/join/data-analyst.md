@@ -13,7 +13,7 @@ This position will serve as the data analysis lead for the City of Austin’s Bl
 
 As the i-Team’s data analysis lead, you will work with a team of designers, researchers, analysts, and city staff to identify gaps and prototype service-oriented solutions for residents at risk of displacement and/or experiencing homelessness. Your work will include data analytics, performance measurement, and data architecture -- all in service of sharing information and producing insights for decision makers. You will work with teammates, stakeholders, and community members to quickly generate data and results, and translate them into program and policy recommendations that inform implementation in other city departments. 
 
-This position is grant funded.
+This position is currently Grant Funded through calendar year 2019.
 
 **Applications close November 19, 2018**
 
@@ -37,8 +37,8 @@ Commensurate with experience
 
 ## Minimum qualifications		
 
-- 
 - Graduation from an accredited four-year college or university with major course work in a related field
+- Three (3) years experience related to the job.
 
 ## Application requirements
 
