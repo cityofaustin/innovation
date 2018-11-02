@@ -9,8 +9,7 @@ description: We're hiring for a project lead for our i-Team – Austin’s incub
 
 ## Overview
 
-This position will serve as project lead for the City of Austin’s Bloomberg Philanthropies-funded Innovation Team (i-Team). The i-Team is the City of Austin’s incubator for solving complex social problems. Our first year focused on researching and designing solutions for homelessness. See info here:
-https://www.bloomberg.org/program/government-innovation/innovation-teams/ 
+This position will serve as project lead for the City of Austin’s Bloomberg Philanthropies-funded Innovation Team (i-Team). The i-Team is the City of Austin’s incubator for solving complex social problems. Our first year focused on researching and designing solutions for homelessness. [See info here](https://www.bloomberg.org/program/government-innovation/innovation-teams/).
 
 As the i-Team project lead, you will work with a team of designers, researchers, analysts, and city staff to identify gaps and prototype service-oriented solutions for residents at risk of displacement and/or experiencing homelessness. You will work with teammates, stakeholders, and community members to quickly generate data and results, and translate them into program and policy recommendations that inform implementation in other city departments. 
 
