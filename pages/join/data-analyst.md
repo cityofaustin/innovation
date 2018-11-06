@@ -15,7 +15,7 @@ As the i-Team’s data analysis lead, you will work with a team of designers, re
 
 This position is currently Grant Funded through calendar year 2019.
 
-**Applications close November 22, 2018**
+**Applications close November 26, 2018**
 
 ## Salary		
 
