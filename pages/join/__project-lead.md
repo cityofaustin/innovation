@@ -17,7 +17,7 @@ The iTeam project lead will manage the lifecycle of the iTeam’s work and deliv
 
 This position is currently grant funded through calendar year 2019.
 
-**Applications close November 23, 2018**
+**Applications close November 26, 2018**
 
 ## Salary		
 
@@ -50,4 +50,4 @@ Please submit the following with your application:
 
 Please be sure to detail on the application all previous employment that you wish to be considered as part of your qualifications. Be sure to include your specific work experience that relates to the minimum and preferred qualifications for the position on your application. Please do not use phrases like “see resume” within your online application. The information provided in your resume must match the information in the job application. Your resume will not substitute for a complete employment application. 
 
-**[Apply here](https://www.austincityjobs.org/postings/71347)**
+**[Apply here](https://www.austincityjobs.org/postings/71378)**
