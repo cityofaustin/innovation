@@ -15,7 +15,7 @@ As the i-Team’s design researcher, you will work with a team of designers, ana
 
 This position is currently grant funded through calendar year 2019.
 
-**Applications close November 22, 2018**
+**Applications close November 26, 2018**
 
 ## Salary		
 
