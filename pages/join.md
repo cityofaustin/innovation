@@ -13,7 +13,4 @@ If you have any questions, contact [innovation@austintexas.gov](mailto:innovatio
 
 ## Open positions
 
-We're hiring for the following positions for our i-Team -- Austin's incubator for solving complex social problems. Applications close for these roles November 26, 2018.
-- [Project lead](/innovation/project-lead/) 
-- [Design researcher](/innovation/design-researcher/)
-- [Data analyst](/innovation/data-analyst/) 
+We do not currently have any open positions.
