@@ -21,13 +21,13 @@ Kerry O'Connor is Austin's Chief Innovation Officer. She joined the City of Aust
 
 **Core team**
 
-- Sabine Romero, Administrative Officer 
 - Daniel Culotta, Community Engagement Lead
 - Daniel Honker, Portfolio Manager
+- Sabine Romero, Administrative Officer 
 
 **i-Team**
 
-- Taylor Cook, Project Manager
-- Maura Newell, Researcher
+- Alba Sereno, Project Lead
 - Lincoln Neiger, Service Designer
-- Sarah Rodriguez, Data Analyst
+- David Rauch, Data Analyst
+- Marcela Reyes Ayala
