@@ -19,15 +19,27 @@ The Innovation Office opened in 2014, with a vision to explore and experiment wi
 
 Kerry O'Connor is Austin's Chief Innovation Officer. She joined the City of Austin on March 24, 2014. Previously, Kerry worked at the U.S. Department of State, where she established an innovation unit called the Research and Design Center in the Office of the Secretary of State, which offers research, consulting, brainstorming facilitation, and strategic design services. She developed and managed an employee idea generation program, helped architect sustainable management reforms, coordinated logistics for the Pittsburgh G20 Summit, served as an executive staffer, and improved programs and operations at two U.S. Embassies. O’Connor holds a Master of Arts in International Affairs from The George Washington University and a Bachelor of Arts in International Affairs from James Madison University.
 
-**Core team**
+**Innovation Office staff**
 
 - Daniel Culotta, Community Engagement Lead
 - Daniel Honker, Portfolio Manager
 - Sabine Romero, Administrative Officer 
 
-**i-Team**
+**Current i-Team members**
 
 - Alba Sereno, Project Lead
 - Lincoln Neiger, Service Designer
 - David Rauch, Data Analyst
 - Marcela Reyes Ayala
+
+**Previous i-Team members**
+
+- Taylor Cook
+- Sarah Rodriguez
+- Maura Newell
+- Katherine Duong
+- Titania "T" Veda
+- Ben Humphreys
+- Shiri Spitz
+- Mickey Lanning
+- Stephanie Gates
